@@ -1,0 +1,9 @@
+2014-04-21 08:31:25 ERROR  : Error connecting to the server: FATAL:  la autentificación password falló para el usuario «postgres»
+
+2014-04-21 09:18:37 ERROR  : Error connecting to the server: FATAL:  la autentificación password falló para el usuario «postgres»
+
+2014-04-21 10:04:36 ERROR  : Error connecting to the server: FATAL:  la autentificación password falló para el usuario «postgres»
+
+2014-04-21 10:05:14 ERROR  : Passwords do not match!
+2014-04-21 10:05:44 ERROR  : Error connecting to the server: FATAL:  la autentificación password falló para el usuario «postgres»
+
