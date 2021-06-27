@@ -1,0 +1,37 @@
+Ciudad Zona Ventas Forma pago Categoría
+Heredia Norte 1235.00  Contado  Eletrodomésticos
+Heredia Norte 639.20  Tarjeta  Eletrodomésticos
+Heredia Norte 621.39  contado  Informática
+Heredia Norte 1259.50  tarjeta  Informática
+heredia Norte 2563.25  Contado  Audio y televisión
+Heredia Norte 1258.12  Tarjeta  Audio y televisión
+San José Sur 725.26  Contado  Eletrodomésticos
+San José Sur 2563.39  Tarjeta  Eletrodomésticos
+San José Sur 1258.36  contado  Informática
+San José Sur 1578.30  tarjeta  Informática
+San José Sur 953.26 Contado Audio y televisión
+San José Sur 2359.25 Tarjeta Audio y televisión
+Cartago Norte 1259.14  Contado  Eletrodomésticos
+Cartago Norte 856.50  Tarjeta  Eletrodomésticos
+Cartago Norte 420.30  contado  Informática
+Cartago Norte 2853.00  Tarjeta  Informática
+Cartago Norte 1933.60  Contado  Audio y televisión
+Cartago Norte 1253.25  tarjeta  Audio y televisión
+Alajuela Norte 3215.30  Contado  Eletrodomésticos
+Alajuela Norte 1253.25  Tarjeta  Eletrodomésticos
+Alajuela Norte 698.65  contado  Informática
+Alajuela sur 2653.26  Tarjeta  Informática
+Alajuela sur 1588.99  Contado  Audio y televisión
+Alajuela sur 996.65  Tarjeta  Audio y televisión
+Guanacaste norte 1254.40  contado  Eletrodomésticos
+Guanacaste norte 782.69  tarjeta  Eletrodomésticos
+Guanacaste norte 2133.25  contado  Informática
+Guanacaste Sur 1120.36  Tarjeta  Informática
+Guanacaste Sur 1258.33  Contado  Audio y televisión
+Guanacaste Sur 1255.20  tarjeta  Audio y televisión
+Limon Sur 2156.25  Contado  Eletrodomésticos
+Limon Sur 598.25  Tarjeta  Eletrodomésticos
+Limon Sur 1256.88  Contado  Informática
+Limon Sur 1455.30  tarjeta  Informática
+Limon Sur 1788.00  Contado  Audio y televisión
+Limon Sur 2120.00  Tarjeta  Audio y televisión
