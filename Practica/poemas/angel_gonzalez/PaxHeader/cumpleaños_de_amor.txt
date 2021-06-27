@@ -1,0 +1,6 @@
+55 path=poemas/angel_gonzalez/cumpleaños_de_amor.txt
+20 ctime=1297942549
+20 atime=1297946016
+24 SCHILY.dev=234881026
+23 SCHILY.ino=21539203
+18 SCHILY.nlink=1
