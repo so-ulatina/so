@@ -1,0 +1,115 @@
+ID empleado;Apellido;Nombre;Seccional;Facultad;Cargo;Salario;Fch comienzo;Fch nacimiento
+1021;Rojas ;Pablo;Bucaramanga;Administración;Docente;5600000;9/8/1977;3/9/1968
+1028;Jaramillo;Ana;Medellín;Ingeniería;Aux. Administrativo;1350000;4/29/1991;10/9/1970
+1102;Arango;Juan;Medellín;Diseño;Administrativo;5600000;4/18/1991;6/27/1970
+1143;Diez;Patricia;Medellín;Administración;Administrativo;5600000;5/15/1984;9/21/1958
+1148;Arango;Mauricio;Bogotá;Derecho;Docente;4700000;3/10/1982;11/3/1962
+1153;Posada;Carlos;Bogotá;Derecho;Docente;3200000;5/7/1991;9/28/1970
+1180;Arango ;Monica;Medellín;Diseño;Técnico;2000000;12/24/1990;10/3/1968
+1188;Guerrero;Alexandra;Medellín;Diseño;Docente;2300000;2/10/1978;5/22/1954
+1225;Burgos;Jeronimo;Palmira;Administración;Administrativo;3200000;4/5/1982;9/28/1951
+1229;Marquez;Isabella;Bucaramanga;Administración;Administrativo;5600000;2/12/1978;5/26/1955
+1236;Carmona ;Andrea;Monteria;Ingeniería;Docente;3200000;3/4/1989;8/17/1969
+1255;Acevedo;Melina;Medellín;Diseño;Administrativo;2600000;9/20/1989;9/13/1960
+1257;Cano;Carolina;Medellín;Ingeniería;Docente;3200000;4/16/1990;10/7/1965
+1276;Idarraga;Jorge;Monteria;Ingeniería;Aux. Administrativo;1200000;7/30/1979;9/8/1940
+1277;Diaz ;Evelyn;Bogotá;Publicidad;Docente investigador;3600000;11/27/1987;5/23/1959
+1301;Casadiegos;Manuela;Medellín;Diseño;Aux. Administrativo;1350000;8/6/1984;6/25/1965
+1330;Arango;Tatiana;Medellín;Diseño;Administrativo;2500000;12/14/1987;9/29/1963
+1342;Osorio;Catalina;Bogotá;Derecho;Docente;3200000;12/21/1989;9/13/1965
+1367;Sanchez;Miguel;Medellín;Ingeniería;Docente;3200000;1/8/1984;6/12/1949
+1383;Villamizar;Lina;Medellín;Medicina;Docente;3600000;7/15/1988;5/20/1960
+1385;Toro;Manuel;Bucaramanga;Ingeniería;Docente;1980000;9/18/1982;7/22/1958
+1390;De santis;Marcela;Palmira;Administración;Aux. Administrativo;1500000;7/7/1988;5/31/1960
+1393;Muñoz;Maritza;Medellín;Ingeniería;Docente;3200000;1/9/1986;9/28/1955
+1407;Jaramillo;David;Bogotá;Publicidad;Docente investigador;3400000;8/31/1977;3/19/1958
+1412;Saldarriaga;Virginia;Monteria;Comunicación;Docente;4200000;9/9/1991;10/13/1960
+1416;Arias;Francisco;Palmira;Diseño;Docente;3200000;12/27/1984;12/22/1962
+1427;Zea ;Jorge;Monteria;Comunicación;Docente;6500000;10/26/1981;9/1/1969
+1428;Bermudez;Jesus;Medellín;Diseño;Docente;3800000;9/26/1986;11/13/1964
+1444;Villegas;Estefania;Palmira;Administración;Docente;3200000;3/25/1992;1/17/1964
+1484;Gomez;Mariana;Bogotá;Publicidad;Docente;3200000;1/28/1987;1/4/1967
+1506;Gomez;Carlos;Medellín;Medicina;Administrativo;2300000;12/13/1989;9/24/1965
+1514;Palacio;Paula;Medellín;Diseño;Docente;4100000;10/12/1981;2/26/1951
+1582;Hincapie;Victoria;Bucaramanga;Administración;Docente;4600000;4/13/1982;9/17/1951
+1610;Higuita;Cathy;Bogotá;Derecho;Docente;3200000;10/12/1984;1/16/1940
+1614;Lemos;Dalia;Medellín;Diseño;Técnico;1100000;9/20/1987;9/30/1961
+1615;Betancur;Gonzalo;Bucaramanga;Administración;Docente;1350000;12/16/1990;10/14/1968
+1624;Cano;Sandra;Bogotá;Publicidad;Administrativo;4200000;3/3/1983;5/19/1959
+1670;Hoyos;Adriana;Bogotá;Derecho;Docente;3200000;4/8/1991;8/20/1967
+1693;Melano;Luis;Medellín;Administración;Docente;1350000;3/17/1992;1/28/1964
+1708;Osorio;Julieth;Medellín;Medicina;Docente;3500000;2/22/1989;5/6/1964
+1718;Rodas;Gabriel;Bogotá;Publicidad;Docente investigador;3600000;9/10/1982;8/2/1958
+1724;Tamayo;Gloria;Monteria;Ingeniería;Docente;3200000;11/12/1986;3/23/1958
+1745;Aristizabal;Natalia;Bogotá;Derecho;Docente investigador;3200000;8/7/1992;8/28/1969
+1784;Uribe;Melisa;Medellín;Medicina;Técnico;1900000;3/18/1982;10/23/1962
+1801;Castrillón;Juliana;Bucaramanga;Ingeniería;Docente;3100000;5/11/1989;5/21/1964
+1823;Rodríguez ;Ana Maria;Medellín;Diseño;Docente;2300000;12/18/1984;10/18/1968
+1839;Alzate;Angela;Monteria;Ingeniería;Técnico;2800000;5/11/1986;1/19/1967
+1867;Henao;Barbara;Bucaramanga;Ingeniería;Docente;2100000;12/5/1986;2/24/1961
+1902;Perez;Elena;Medellín;Administración;Docente;1350000;3/24/1986;12/2/1962
+1926;Girando;Felipe;Medellín;Administración;Aux. Administrativo;1350000;11/13/1986;3/22/1965
+1929;Marulanda;Sofia;Medellín;Diseño;Docente;2300000;10/16/1982;9/26/1965
+1935;Rico;Samuel;Medellín;Ingeniería;Docente;3200000;2/9/1986;6/4/1960
+1941;Ospina;Daniel;Medellín;Administración;Docente;1460000;1/20/1991;1/15/1967
+1994;Salamanca;Isabel;Medellín;Diseño;Administrativo;4350000;11/20/1987;4/18/1956
+1997;Suarez;Miguel;Bogotá;Derecho;Docente investigador;4100000;4/16/1991;8/9/1967
+2022;Franco;Daniela;Palmira;Administración;Docente;3200000;6/6/1988;10/14/1963
+2035;Cifuentes;Oscar;Medellín;Administración;Docente;1350000;1/3/1985;4/3/1966
+2069;Cock;Cristina;Medellín;Diseño;Administrativo;2960000;7/29/1990;5/21/1965
+2119;Aguirre;Brenda;Monteria;Ingeniería;Docente;3200000;9/6/1984;9/5/1954
+2135;Molina;Karla;Bucaramanga;Administración;Aux. Técnico;980000;4/14/1989;10/2/1951
+2159;Gutierrez;Amalia;Medellín;Medicina;Docente;4900000;4/16/1992;1/25/1965
+2171;Lemus;David;Palmira;Diseño;Docente;3200000;4/8/1990;9/12/1962
+2172;Simanca;Alejandro;Monteria;Ingeniería;Aux. Administrativo;1600000;7/8/1990;9/1/1969
+2179;Arango;Felipe;Medellín;Administración;Administrativo;2560000;6/20/1989;5/28/1969
+2184;Rodriguez;Hilda;Bucaramanga;Administración;Docente;2900000;10/22/1987;4/6/1945
+2195;Mota;Elisa;Bucaramanga;Ingeniería;Docente;3800000;7/29/1984;7/6/1955
+2204;Mendez;Gustavo;Medellín;Ingeniería;Docente;4000000;8/1/1988;6/18/1960
+2209;Ramirez;Tomas;Medellín;Administración;Técnico;1350000;1/13/1990;11/3/1965
+2228;Lopez;Dinara;Bucaramanga;Ingeniería;Administrativo;5600000;3/3/1988;7/10/1955
+2238;Zapata;Stepania;Bucaramanga;Ingeniería;Docente;1350000;4/16/1990;9/1/1962
+2303;Serna;Pamela;Bucaramanga;Ingeniería;Aux. Administrativo;1350000;6/19/1985;10/24/1962
+2304;Ruiz;Susana;Bogotá;Derecho;Administrativo;3200000;5/6/1986;8/6/1948
+2308;Betancurt;Santiago;Bucaramanga;Administración;Aux. Administrativo;1350000;11/9/1991;5/15/1969
+2355;Vergara;Amalia;Medellín;Ingeniería;Docente;3200000;9/12/1987;10/11/1961
+2368;Hernandez ;Juan;Bogotá;Publicidad;Docente investigador;3700000;11/6/1987;9/16/1969
+2388;Pulgarin;Angelina;Monteria;Ingeniería;Administrativo;4100000;7/7/1987;11/7/1955
+2393;Bustos;Jacobo;Bogotá;Publicidad;Docente investigador;3700000;10/29/1988;12/6/1952
+2400;Toledo;Roberta;Medellín;Diseño;Aux. Administrativo;1350000;9/28/1989;9/2/1960
+2411;Duque;Julian;Medellín;Ingeniería;Docente;2400000;1/26/1986;12/2/1964
+2445;Diaz ;Lucero;Monteria;Ingeniería;Docente;3200000;6/5/1980;9/26/1967
+2458;Florez;Alejandra;Medellín;Medicina;Técnico;1350000;10/4/1986;11/2/1964
+2478;Diaz ;Mariana;Monteria;Comunicación;Docente;3200000;1/1/1993;5/19/1969
+2482;Santana;Javier;Monteria;Comunicación;Administrativo;5600000;10/25/1979;8/24/1937
+2510;Mendez;Tammy;Medellín;Administración;Docente;1280000;3/11/1983;5/8/1959
+2568;Castro;Monica;Medellín;Medicina;Administrativo;5700000;10/13/1992;7/12/1970
+2570;Marquez;Jessica;Medellín;Ingeniería;Docente;4800000;6/11/1985;11/4/1962
+2576;Carmona;Sebastian;Medellín;Administración;Docente;1500000;10/18/1981;9/12/1969
+2578;Granda;Luisa;Medellín;Diseño;Docente;4900000;10/4/1981;3/9/1951
+2596;Restrepo;Karen;Palmira;Diseño;Aux. Administrativo;1500000;2/26/1985;7/7/1963
+2641;Jaramillo;Santiago;Medellín;Administración;Docente;1350000;11/5/1986;4/2/1965
+2648;Perez;Alicia;Bucaramanga;Ingeniería;Aux. Administrativo;1350000;4/8/1990;10/18/1965
+2677;Gracía;Simón;Medellín;Medicina;Aux. Administrativo;1390000;11/18/1981;9/22/1965
+2692;Posada;Sergio;Monteria;Comunicación;Docente;5600000;2/2/1978;6/2/1954
+2707;Merizalde;Antonio;Palmira;Diseño;Docente;3200000;1/4/1985;12/11/1962
+2714;Giraldo;Esteban;Monteria;Ingeniería;Aux. Administrativo;1350000;8/6/1990;5/10/1965
+2746;Uribe;Carmen;Medellín;Administración;Aux. Administrativo;1350000;12/26/1984;4/14/1956
+2751;Peláez;Andrés;Medellín;Ingeniería;Docente;3200000;11/26/1981;9/11/1965
+2804;Carmona;Jose;Palmira;Administración;Docente;3200000;12/6/1987;10/10/1963
+2809;Vasquez;Leonardo;Bucaramanga;Ingeniería;Docente;2600000;6/18/1990;7/11/1963
+2829;Berrio;Camilo;Palmira;Diseño;Docente;3200000;10/20/1984;1/5/1960
+2852;Garces;Elena;Medellín;Administración;Administrativo;2400000;6/12/1989;6/8/1949
+2864;Fernandez;Guillermo;Palmira;Administración;Docente;4500000;3/6/1985;6/26/1963
+2895;Jimenez;Karina;Medellín;Ingeniería;Técnico;1700000;9/14/1984;8/25/1954
+2899;Peláez;Alberto;Medellín;Administración;Docente;1350000;1/21/1990;10/23/1965
+2904;Vallejo;Sara;Medellín;Diseño;Docente;2300000;8/9/1990;6/7/1960
+2904;Caro;Diana;Medellín;Ingeniería;Administrativo;5600000;2/25/1980;8/28/1959
+2906;Guerra;Lisa;Medellín;Diseño;Docente;2300000;11/27/1986;3/7/1961
+2915;Arroyave;Federico;Medellín;Diseño;Técnico;1300000;6/13/1980;9/15/1967
+2925;Lema;Maria;Medellín;Ingeniería;Aux. Administrativo;1350000;4/10/1991;7/8/1970
+2939;Cortes;Rafael;Palmira;Diseño;Administrativo;4200000;4/1/1986;11/21/1962
+2956;Sierra;Luisa;Medellín;Administración;Docente;2700000;2/3/1986;11/21/1964
+2957;Ramirez;Eliana;Palmira;Administración;Docente;3200000;2/14/1989;5/17/1964
+2965;Dominguez ;Camila;Bogotá;Derecho;Docente investigador;3900000;11/17/1991;5/4/1969
+2978;Medina;Raquel;Medellín;Medicina;Docente;2940000;7/22/1988;6/22/1960
