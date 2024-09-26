@@ -1,3 +1,3 @@
 # so
-Repositorio para prácicas del curso de sistemas operativos aplicados de la Universidad Latina de Costa Rica.
+Repositorio para prácicas del curso de sistemas operativos.
 Prof. Lic. Carlos Alberto Zúñiga Amador
